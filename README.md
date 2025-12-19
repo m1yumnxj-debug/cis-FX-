@@ -1,3 +1,6 @@
+
+<!DOCTYPE html>
+<html>
 <head prefix="website: http://ogp.me/ns/website#">
     <meta charset="utf-8">
 
@@ -5,7 +8,7 @@
 
     <meta property="og:type" content="website" />
     <meta property="og:title" content="LINE公式アカウント クーポン(LINE Official Account coupon)" />
-    <meta property="og:url" content="[https://liff.line.me/1654883387-DxN9w07M/c/01KCQXW5X6FFSK34G86ZQMPR6T](https://lin.ee/mruTVIt)" />
+    <meta property="og:url" content="https://liff.line.me/1654883387-DxN9w07M/c/01KCQXW5X6FFSK34G86ZQMPR6T" />
     <meta property="og:image" content="https://obs.line-scdn.net/0h4qefX3RQa15YH0JYhwMUCXlCYDxrfXVVenkjPHgWPGx3JipmbC0gaiobYjxyLX8BYXxwOhMfPTwmJikJYjwlanVKYmZ3fA/f256x256" />
     <meta property="og:description" content="リンクを開くにはこちらをタップ" />
 
@@ -39,7 +42,7 @@ function buildLiffFullUrl(originalUrl, fullUrl) {
 </script>
 
     <script>
-        const liffUrlForLINEApp = "[line://app/1654883387-DxN9w07M](https://lin.ee/mruTVIt)";
+        const liffUrlForLINEApp = "line://app/1654883387-DxN9w07M";
         let liffFullUrlForLINEApp = "line://app/1654883387-DxN9w07M?liff.state=%2Fc%2F01KCQXW5X6FFSK34G86ZQMPR6T&liff.source=lp_qr";
         liffFullUrlForLINEApp = buildLiffFullUrl(liffUrlForLINEApp, liffFullUrlForLINEApp)
 
@@ -91,3 +94,4 @@ function buildLiffFullUrl(originalUrl, fullUrl) {
     <!-- empty -->
 </body>
 
+</html>
